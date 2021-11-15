@@ -2,7 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e41d7677-4087-41f6-9df9-99dbea5b1457" name="Changes" comment="commit">
+      <change afterPath="$PROJECT_DIR$/pages/Componets.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/Contact-Us.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/Customer-Service.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/How-To-Build-A-Computer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/Reviews.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pages/Software.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stylesheet/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/stylesheet/main.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,17 +27,34 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
   <component name="ProjectId" id="20V8KcpgWrwn8O5zGt4qNGgxVw3" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/pages" />
+    </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -41,7 +66,9 @@
       <updated>1636118331791</updated>
       <workItem from="1636118333211" duration="18000" />
       <workItem from="1636118422837" duration="1000" />
-      <workItem from="1636118476278" duration="721000" />
+      <workItem from="1636118476278" duration="1894000" />
+      <workItem from="1636724776184" duration="5184000" />
+      <workItem from="1636947896706" duration="2190000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1636118667674</created>
@@ -57,7 +84,21 @@
       <option name="project" value="LOCAL" />
       <updated>1636119018831</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="commit">
+      <created>1636119415361</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1636119415362</updated>
+    </task>
+    <task id="LOCAL-00004" summary="commit">
+      <created>1636119488831</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1636119488831</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -73,8 +114,10 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="commit" />
     <option name="LAST_COMMIT_MESSAGE" value="commit" />
   </component>
