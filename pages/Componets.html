@@ -13,25 +13,42 @@
 <body>
 <h1 class >
     <img src="../images/Logo.png" alt="Logo">
-    Pc Tips and Trick
+    Pc Tips <br>and Tricks
 </h1>
-<nav id="nav_menu">
-    <ul>
-        <li><a href="../index.html">Home</a></li>
-        <li><a href="Componets.html" class="current">Componets</a></li>
-        <li><a href="How-To-Build-A-Computer.html">How To Build A Computer</a></li>
-        <li><a href="Software.html">Software</a></li>
-        <li><a href="Contact-Us.html">Contact Us</a>
-            <ul>
-                <li><a href="#">Customer Service</a></li>
-                <li><a href="#">Reviews</a></li>
-            </ul>
-        </li>
-    </ul>
-</nav>
-
-
-
+<main>
+    <nav id="navBar" class="navbar navbar-expand-sm">
+        <div class="container-fluid">
+            <button id="redCl" class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon">Menu</span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNavDropdown">
+                <ul id="blowUp" class="navbar-nav">
+                    <li class="nav-item">
+                        <a class="nav-link active" aria-current="page" href="../index.html">Home</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="Componets.html">Componets</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="How-To-Build-A-Computer.html">How To Build A Computer</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="Software.html">Sofware</a>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                            More Info
+                        </a>
+                        <ul id="navBarDrop" class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                            <li><a id="drop1" class="dropdown-item" href="Customer-Service.html">Contact</a></li>
+                            <li><a id="drop2" class="dropdown-item" href="Reviews.html">Reveiws</a></li>
+                        </ul>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+</main>
 
 
 
