@@ -2,10 +2,98 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Title</title>
+    <title>PC Tips And Tricks</title>
+
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css"
+          rel="stylesheet"
+          integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC"
+          crossorigin="anonymous">
+    <link href="https://fonts.googleapis.com/css2?family=Shadows+Into+Light&display=swap" rel="stylesheet">
+    <link rel="shortcut icon" href="../images/Logo.png">
+    <link rel="stylesheet" href="../stylesheet/main.css">
+    <link rel="stylesheet" href="../stylesheet/customerservice.css">
+
 </head>
 <body>
+<h1 class >
+    <img src="../images/Logo.png" alt="Logo">
+    Pc Tips <br>and Tricks
+</h1>
+<main>
+    <nav id="navBar" class="navbar navbar-expand-sm">
+        <div class="container-fluid">
+            <button id="redCl" class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon">Menu</span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarNavDropdown">
+                <ul id="navItems" class="navbar-nav">
+                    <li class="nav-item">
+                        <a class="nav-link active" aria-current="page" href="../index.html">Home</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="Componets.html">Componets</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="How-To-Build-A-Computer.html">How To Build A Computer</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link" href="Software.html">Sofware</a>
+                    </li>
+                    <li class="nav-item dropdown">
+                        <a class="nav-link dropdown-toggle" href="#" id="navbarDropdownMenuLink" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                            More Info
+                        </a>
+                        <ul id="navBarDrop" class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                            <li><a id="drop1" class="dropdown-item" href="../pages/Customer-Service.html">Customer Service</a></li>
+                            <li><a id="drop2" class="dropdown-item" href="../pages/Reviews.html">Reveiws</a></li>
+                        </ul>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+
+    <div>
+        <div id="csHeading">
+            <h2>Customer Service</h2>
+        </div>
+        <div id="csP">
+            <p>Want to get in touch? We'd love to hear from you. Please fill out the form below<br> and our team
+            will email you back within 24 hours!</p>
+        </div>
+    </div>
+
+    <div id="Form" class="container">
+        <form>
+            <label id="First" for="firstName">First Name</label>
+            <input type="text" id="firstName" name="firstname" placeholder="First name">
+
+            <label id="Last" for="lastName">Last Name</label>
+            <input type="text" id="lastName" name="lastname" placeholder="Last name">
+
+            <label id="email" for="mail">Email</label>
+            <input type="text" id="mail" name="mail" placeholder="Email Address">
 
 
+            <label id="Sub" for="subjectText">Please express any concerns</label>
+            <textarea id="subjectText" name="Subject" placeholder="Write something..." style="height:200px"></textarea>
+
+            <input type="submit" value="Submit">
+        </form>
+    </div>
+</main>
+
+
+
+
+
+<! JavaScript Bundle with Popper -->
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.bundle.min.js"
+        integrity="sha384-MrcW6ZMFYlzcLA8Nl+NtUVF0sA7MsXsP1UyJoMp4YLEuNSfAP+JcXn/tWtIaxVXM"
+        crossorigin="anonymous"></script>
 </body>
+
+<footer>
+    <p>&copy; 2021, Tyler Preston, NJIT, All Rights Reserved, Privacy Policy</p>
+</footer>
 </html>

@@ -1,0 +1,11 @@
+iframe{
+    margin-top: 4em;
+    margin-left: auto;
+    margin-right: auto;
+    display: block
+}
+
+#videoTXT {
+    border-style:solid;
+    float:right;
+}

@@ -6,23 +6,32 @@ h1 img {
     width: 40px;
 }
 
-
 h1{
     margin: 0;
     background: lightskyblue;
-
+    font-family:"Shadows Into Light",sans-serif;
+    font-weight: bolder;
 }
 body{
     background-color: lightskyblue;
 }
 #navBar {
     background: #ffc107;
+    font-family:"Shadows Into Light",sans-serif;
+    font-size: 150%;
+}
+.nav-link:hover{
+    color: lightskyblue;
+    text-decoration: underline;
+}
+.dropdown-item:hover{
+    color: lightskyblue;
+    text-decoration: underline;
 }
 
 #navBarDrop {
     background: #ffc107;
 }
-
 
 footer {
     width: 100%;
@@ -37,3 +46,4 @@ footer p {
     color: Black;
 
 }
+

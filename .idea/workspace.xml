@@ -2,22 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e41d7677-4087-41f6-9df9-99dbea5b1457" name="Changes" comment="commit">
-      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/revewImg4.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/reviewImg1.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/reviewImg2.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/reviewImg3.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stylesheet/review.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/IS-117-Final-Project.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/IS-117-Final-Project.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stylesheet/How-To-Build-A-Computer.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stylesheet/customerservice.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/Componets.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/Componets.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/Contact-Us.html" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/Customer-Service.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/Customer-Service.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/How-To-Build-A-Computer.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/How-To-Build-A-Computer.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/Reviews.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/Reviews.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pages/Software.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/Software.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/stylesheet/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/stylesheet/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stylesheet/review.css" beforeDir="false" afterPath="$PROJECT_DIR$/stylesheet/review.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,6 +57,7 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/stylesheet" />
       <recent name="$PROJECT_DIR$/pages" />
     </key>
   </component>
@@ -80,7 +76,7 @@
       <workItem from="1636947896706" duration="2563000" />
       <workItem from="1637014641328" duration="6158000" />
       <workItem from="1638368673791" duration="3905000" />
-      <workItem from="1638553750897" duration="11122000" />
+      <workItem from="1638553750897" duration="18475000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1636118667674</created>
@@ -131,7 +127,14 @@
       <option name="project" value="LOCAL" />
       <updated>1636950493324</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="commit">
+      <created>1638763929315</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1638763929316</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
