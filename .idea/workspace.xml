@@ -1,38 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e41d7677-4087-41f6-9df9-99dbea5b1457" name="Changes" comment="commit">
-      <change afterPath="$PROJECT_DIR$/images/3090.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/CPU.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/Discord-Logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/GPU.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/SSD&amp;HDD.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/SetUP4.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/chrome.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/chrome.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/homeIMG.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/homeImg.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/motherB.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/psu.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/ram2.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/steam.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stylesheet/Componets.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stylesheet/Software.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stylesheet/index.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/IS-117-Final-Project.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/IS-117-Final-Project.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/Componets.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/Componets.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/Customer-Service.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/Customer-Service.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/How-To-Build-A-Computer.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/How-To-Build-A-Computer.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/Reviews.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/Reviews.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pages/Software.html" beforeDir="false" afterPath="$PROJECT_DIR$/pages/Software.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stylesheet/How-To-Build-A-Computer.css" beforeDir="false" afterPath="$PROJECT_DIR$/stylesheet/How-To-Build-A-Computer.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stylesheet/customerservice.css" beforeDir="false" afterPath="$PROJECT_DIR$/stylesheet/customerservice.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stylesheet/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/stylesheet/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stylesheet/review.css" beforeDir="false" afterPath="$PROJECT_DIR$/stylesheet/review.css" afterDir="false" />
-    </list>
+    <list default="true" id="e41d7677-4087-41f6-9df9-99dbea5b1457" name="Changes" comment="commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -107,7 +76,7 @@
       <workItem from="1639576644771" duration="20027000" />
       <workItem from="1639772880632" duration="409000" />
       <workItem from="1640047335623" duration="2945000" />
-      <workItem from="1640055703933" duration="2343000" />
+      <workItem from="1640055703933" duration="2644000" />
     </task>
     <task id="LOCAL-00001" summary="commit">
       <created>1636118667674</created>
@@ -172,7 +141,14 @@
       <option name="project" value="LOCAL" />
       <updated>1638903330780</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="commit">
+      <created>1640105058088</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1640105058088</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
