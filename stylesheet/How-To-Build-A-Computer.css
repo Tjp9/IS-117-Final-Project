@@ -1,11 +1,44 @@
-iframe{
+#Needs{
+    border-style: solid;
+    background: #ffc107;
+    border-radius: 20px;
+    padding: 10px;
+    width: 40%;
+    margin: 2em auto ;
+    text-align: center;
+}
+
+#List{
+    border-style: solid;
+    background: deepskyblue;
+    border-radius: 20px;
+    padding: 10px;
+    width: 80%;
+    margin: 2em auto ;
+}
+#tips{
+    border-style: solid;
+    background: #ffc107;
+    border-radius: 20px;
+    padding: 10px;
+    width: 40%;
+    margin: 2em auto ;
+    text-align: center;
+}
+
+#Tricks{
+    border-style: solid;
+    background: deepskyblue;
+    border-radius: 20px;
+    padding: 10px;
+    width: 80%;
+    margin: 2em auto ;
+}
+
+iframe {
     margin-top: 4em;
     margin-left: auto;
     margin-right: auto;
-    display: block
-}
-
-#videoTXT {
-    border-style:solid;
-    float:right;
+    display: block;
+    border-radius: 20px;
 }
